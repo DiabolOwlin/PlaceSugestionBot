@@ -1,0 +1,483 @@
+caterogies:
+  - places
+conversations:
+  - - France
+    - Eiffel Tower
+  - - France
+    - The Louvre
+  - - France
+    - Château de Versailles
+  - - France
+    - Côte d'Azur
+  - - France
+    - Mont Saint-Michel
+  - - France
+    - Loire Valley Châteaux
+  - - France
+    - Cathédrale Notre-Dame de Chartres
+  - - France
+    - Provence
+  - - France
+    - Chamonix-Mont-Blanc
+  - - France
+    - Alsace Villages
+  - - France
+    - Carcassonne
+  - - France
+    - Brittany
+  - - France
+    - Biarritz
+  - - France
+    - Rocamadour
+  - - France
+    - Prehistoric Cave Paintings in Lascaux
+  - - Italy
+    - The Colosseum
+  - - Italy
+    - The great Basilica of St. Mark
+  - - Italy
+    - The Cathedral of Santa Maria del Fiore
+  - - Italy
+    - Grand Canal, Venice
+  - - Italy
+    - Tuscan Hill Towns
+  - - Italy
+    - Milan Cathedral
+  - - Italy
+    - Lake Como
+  - - Italy
+    - Amalfi Coast
+  - - Italy
+    - Capri & Sorrento
+  - - Italy
+    - The Cinque Terre
+  - - Italy
+    - Campo dei Miracoli
+  - - USA
+    - Statue of Liberty
+  - - USA
+    - Central Park
+  - - USA
+    - Times Square
+  - - USA
+    - Grand Canyon
+  - - USA
+    - Niagara Falls
+  - - USA
+    - Waikiki
+  - - USA
+    - Las Vegas Strip
+  - - USA
+      - Yosemite National Park
+  - - USA
+    - Golden Gate Bridge
+  - - USA
+    - Yellowstone National Park
+  - - USA
+      - San Antonio River Walk
+  - - USA
+    - St. Louis Arch
+  - - USA
+    - Glacier National Park and the Going-to-the-Sun Road
+  - - USA
+    - Mount Rushmore National Memorial
+  - - USA
+    - Sedona's Red Rock Country
+  - - Peru
+    - The Inca Trail
+  - - Peru
+    - Machu Picchu
+  - - Peru
+    - Cusco's Architectural Treasures
+  - - Peru
+    - Lake Titicaca
+  - - Peru
+    - Colca Canyon
+  - - Peru
+    - Nazca Lines
+  - - Peru
+    - The Sacred Valley
+  - - Peru
+    - Ollantaytambo
+  - - Peru
+    - Arequipa's Historical City Center
+  - - Peru
+    - Puerto Maldonado and the Amazon
+  - - Peru
+    - Lima's Historic Center
+  - - Peru
+    - Ica and the Sand Dunes at Huacachina
+  - - Peru
+    - Sillustani
+  - - Greece
+    - The Acropolis
+  - - Greece
+    - Santorini
+  - - Greece
+    - Mykonos
+  - - Greece
+    - Delphi
+  - - Greece
+    - Corfu
+  - - Greece
+    - Metéora Monasteries
+  - - Greece
+    - Rhodes Town
+  - - Greece
+    - Zákynthos
+  - - Greece
+    - Samaria Gorge
+  - - Greece
+    - Nafplio
+  - - Greece
+    - Thessaloniki
+  - - Greece
+    - Corinth Canal
+  - - Greece
+    - Palace of Knossos
+  - - Greece
+    - Mycenae
+  - - Greece
+    - Paros
+  - - India
+    - The Taj Mahal
+  - - India
+    - The Holy City of Varanasi
+  - - India
+    - Harmandir Sahib
+  - - India
+    - Jaisalmer
+  - - India
+    - The Red Fort
+  - - India
+    - The Gateway of India
+  - - India
+    - Mecca Masjid
+  - - India
+    - Amer Fort
+  - - India
+    - Periyar National Park and Wildlife Sanctuary
+  - - India
+    - Agra Fort
+  - - India
+    - The Ellora Caves
+  - - India
+    - Mehrangarh Fort
+  - - India
+    - Mysore Palace
+  - - Egypt
+    - Pyramids of Giza
+  - - Egypt
+    - Luxor's Temples & Tombs
+  - - Egypt
+    - Aswan
+  - - Egypt
+    - Abu Simbel
+  - - Egypt
+    - Islamic Cairo
+  - - Egypt
+    - Saqqara
+  - - Egypt
+    - White Desert
+  - - Egypt
+    - Alexandria
+  - - Egypt
+    - Abydos Temple
+  - - Egypt
+    - Siwa Oasis
+  - - Egypt
+    - St. Catherine's Monastery
+  - - Egypt
+    - Wadi Al-Hitan
+  - - China
+    - Great Wall
+  - - China
+    - Forbidden City
+  - - China
+    - The Imperial Palace
+  - - China
+    - The Terracotta Army
+  - - China
+    - The Summer Palace
+  - - China
+    - Chengdu Research Base of Giant Panda Breeding
+  - - China
+    - The Classical Gardens of Suzhou
+  - - China
+    - The Potala Palace
+  - - China
+    - The Bund
+  - - China
+    - Hangzhou's Historic West Lake
+  - - China
+    - Leshan Giant Buddha
+  - - China
+    - The Hong Kong
+  - - China
+    - Zhangjiajie National Forest Park
+  - - Cambodia
+    - Angkor Wat
+  - - Cambodia
+    - Phnom Penh
+  - - Cambodia
+    - Koh Rong Samloem
+  - - Cambodia
+    - Siem Reap
+  - - Cambodia
+    - Ratanakiri
+  - - Cambodia
+    - Prasat Preah Vihear
+  - - Cambodia
+    - Battambang
+  - - Cambodia
+    - Kampot
+  - - Cambodia
+    - Tonlé Sap Lake
+  - - Cambodia
+    - Koh Kong Conservation Corridor
+  - - Cambodia
+    - Kratie
+  - - Cambodia
+    - Sambor Prei Kuk
+  - - Cambodia
+    - Banteay Chhmar
+  - - Cambodia
+    - Mundulkiri
+  - - Jordan
+    - Petra
+  - - Jordan
+    - Dead Sea
+  - - Jordan
+    - Wadi Rum
+  - - Jordan
+    - Jerash Ruins
+  - - Jordan
+    - Aqaba
+  - - Jordan
+    - Roman Ruins in Amman
+  - - Jordan
+    - Ancient Mosaics of Madaba
+  - - Jordan
+    - Wadi Mujib
+  - - Jordan
+    - Ajloun
+  - - Jordan
+    - Mount Nebo
+  - - England
+    - Stonehenge
+  - - England
+    - Tower of London
+  - - England
+    - The Roman Baths and Georgian City of Bath
+  - - England
+    - The British Museum
+  - - England
+    - York Minster and Historic Yorkshire
+  - - England
+    - Windsor Castle
+  - - England
+    - Chester Zoo
+  - - England
+    - Lake District National Park
+  - - England
+    - Canterbury Cathedral
+  - - England
+    - Eden Project
+  - - England
+    - The Cotswolds
+  - - England
+    - The National Gallery
+  - - England
+    - Warwick Castle
+  - - England
+    - Tate Modern
+  - - England
+    - Royal Museums Greenwich
+  - - Indonesia
+    - Borobudur
+  - - Indonesia
+    - Orangutans of Borneo
+  - - Indonesia
+    - Gili Islands
+  - - Indonesia
+    - Komodo National Park
+  - - Indonesia
+    - Sacred Monkey Forest
+  - - Indonesia
+    - Mount Bromo
+  - - Indonesia
+    - Tana Toraja
+  - - Indonesia
+    - Kalimantan
+  - - Indonesia
+    - Lake Toba
+  - - Indonesia
+    - Mount Krakatau
+  - - Indonesia
+    - Raja Ampat
+  - - Indonesia
+    - Gunung Rinjani
+  - - Indonesia
+    - Pura Tanah Lot
+  - - Indonesia
+    - Jatiluwih Rice Fields
+  - - Indonesia
+    - Jakarta
+  - - Myanmar
+    - Bagan
+  - - Myanmar
+    - Mount Popa
+  - - Myanmar
+    - Shwedagon Pagoda
+  - - Myanmar
+    - Kakku Pagodas
+  - - Myanmar
+    - Mandalay
+  - - Myanmar
+    - Pindaya
+  - - Myanmar
+    - Mergui
+  - - Myanmar
+    - Mandalay Palace
+  - - Myanmar
+    - Naypyidaw
+  - - Myanmar
+    - Dukkanthein
+  - - Australia
+    - Sydney Opera House
+  - - Australia
+    - Great Barrier Reef Marine Park
+  - - Australia
+    - Uluru-Kata Tjuta National Park
+  - - Australia
+    - Sydney Harbour Bridge
+  - - Australia
+    - Blue Mountains National Park
+  - - Australia
+    - Bondi Beach
+  - - Australia
+    - Daintree National Park
+  - - Australia
+    - K'Gari
+  - - Australia
+    - Kakadu National Park
+  - - Australia
+    - Great Ocean Road
+  - - Australia
+    - Broome
+  - - Tanzania
+    - Serengeti National Park
+  - - Tanzania
+    - Mount Kilimanjaro
+  - - Tanzania
+    - Zanzibar Beaches
+  - - Tanzania
+    - Ngorongoro Conservation Area
+  - - Tanzania
+    - Lake Manyara National Park
+  - - Tanzania
+    - Mafia Island
+  - - Tanzania
+    - Tarangire National Park
+  - - Tanzania
+    - Stone Town
+  - - Tanzania
+    - Ruaha National Park
+  - - Tanzania
+    - Lake Victoria
+  - - Czech Republic
+    - Prague's Charles Bridge
+  - - Czech Republic
+    - St. Vitus Cathedral
+  - - Czech Republic
+    - Prague's Old Town Square & Wenceslas Square
+  - - Czech Republic
+    - Ceský Krumlov Castle
+  - - Czech Republic
+    - Brno's Cathedral of St. Peter and Paul
+  - - Czech Republic
+    - The Colonnades and Spas of Karlovy Vary
+  - - Czech Republic
+    - Kutná Hora
+  - - Czech Republic
+    - The Bohemian Paradise
+  - - Czech Republic
+    - Prague Castle
+  - - Czech Republic
+    - Konopiste Chateau and the Archduke's Trophies
+  - - Czech Republic
+    - Hluboká Castle
+  - - Mexico
+    - Chichen Itza
+  - - Mexico
+    - Cancún and the Mayan Riviera
+  - - Mexico
+    - Puerto Vallarta
+  - - Mexico
+    - Cabo San Lucas and the Los Cabos Corridor
+  - - Mexico
+    - Copper Canyon
+  - - Mexico
+    - Mexico City's Historic Center
+  - - Mexico
+    - Guanajuato
+  - - Mexico
+    - Ixtapa and Zihuatanejo
+  - - Mexico
+    - The Ancient Fortress of Tulum
+  - - Mexico
+    - Guadalajara
+  - - Mexico
+    - Mérida
+  - - Mexico
+    - Oaxaca
+  - - Brazil
+    - Corcovado and Cristo Redentor
+  - - Brazil
+    - Sugar Loaf
+  - - Brazil
+    - Iguaçu Falls
+  - - Brazil
+    - Copacabana
+  - - Brazil
+    - Carnaval
+  - - Brazil
+    - Ipanema
+  - - Brazil
+    - Brasília's Modernist Architecture
+  - - Brazil
+    - Salvador's Pelourinho
+  - - Brazil
+    - Ouro Preto
+  - - Brazil
+    - Museu do Amanhã
+  - - Brazil
+    - Ibirapuera Park
+  - - Brazil
+    - Museu Oscar Niemeyer
+  - - Japan
+    - Mount Fuji
+  - - Japan
+    - Imperial Tokyo
+  - - Japan
+    - Hiroshima Peace Memorial Park
+  - - Japan
+    - Historic Kyoto
+  - - Japan
+    - The Island Shrine of Itsukushima
+  - - Japan
+    - Temple City
+  - - Japan
+    - Osaka Castle
+  - - Japan
+    - Chūbu-Sangaku National Park and the Japanese Alps
+  - - Japan
+    - The Atsuta Shrine
+  - - Japan
+    - Fukuoka Castle Ruins
+  - - Japan
+    - Sapporo
+  - - Japan
+    - Fushimi Inari-taisha Shrine
+  - - Japan
+    - Koyasan Okunoin
